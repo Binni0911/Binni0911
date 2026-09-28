@@ -5,7 +5,7 @@ Frilans data- og Python-utvikler på Sunnmøre.
 
 I take messy data sources — APIs, spreadsheets, open public data — and turn them into
 reliable pipelines, databases and simple tools people actually use.
-Background from the maritime and offshore industry, so I know how that world works.
+Background from the maritime industry, so I know how that world works.
 
 ### What I build
 - **Data pipelines** that fetch and clean data automatically every night (Python, PostgreSQL)
